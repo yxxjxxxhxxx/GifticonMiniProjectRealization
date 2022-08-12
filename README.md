@@ -1,9 +1,8 @@
 # 😎ProjectRealization - miniproject gifticon
-[gifticonproject] (https://github.com/12OneTwo12/mini-project) <br>
-[id]: [URL](https://github.com/12OneTwo12/mini-project) "미니프로젝트 기프티콘 프로젝트"
+## [기프티콘 프로젝트 개요 ](https://github.com/12OneTwo12/mini-project) " ◀ 링크 미니프로젝트 기프티콘 프로젝트" <br>
+
 This is an H2 미니 프로젝트 Java 와 DB 연동 JDBC 를 활용한 기프티콘 프로젝트 느낀점 ❕
 ***
-[id]: URL "Optional Title here"
 
 플레이 데이터 수강 한달 만에 많은 프로그래밍 언어를 배웠다 <BR>
 HTML CSS Javascript Java DB JDBC 
